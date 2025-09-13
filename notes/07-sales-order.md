@@ -1,7 +1,5 @@
 # ✅  Sales Order in QuickBooks 
 
----
-
 ## 🎯 **Objective**
 
 Learn how to create and manage a **Sales Order (SO)** to track customer orders before invoicing.
