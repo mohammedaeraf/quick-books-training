@@ -1,7 +1,3 @@
-Here is a simple, step-by-step tutorial you can use to teach your students how to **Add and Import Customers in QuickBooks Online**.
-
----
-
 # ✅ QuickBooks Online Tutorial – Adding & Importing Customers
 
 ---
@@ -84,7 +80,3 @@ Students will now be able to:
 
 * Add a customer manually for occasional additions.
 * Import a list of customers efficiently when onboarding multiple customers.
-
----
-
-Would you like me to prepare this tutorial as a printable PDF handout or a presentation slide deck for classroom use?
